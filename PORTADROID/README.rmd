@@ -1,16 +1,1 @@
-Il existe deux fichiers 
-1 - Android Bluetooth LED controller qui est le code source téléchargé sur le site web
-Arduino Bluetooth Basic Tutorial dont la page web est ci-joint.
-Comme l'illustre la structure du code, le projet a été developé sous Android Studio. 
-L'application permet d'allumer et d'éteindre une diode LED via deux boutons.
-2 - Le deuxième fichiers est le projet que nous developpons dans le but de commander une 
-portail coulissant avec le meme principe que le projet developpé sous android studio.
-Toute fois quelque lègèrs modifications ont eu lieu notamment sur les 
-interfaces dans le but de personnaliser davantage le code. Vous trouverez quelque commentaire 
-qui permettrons de vous orienter.
 
-Le principe est qu'une fois on lance l'application on accède une activité qui gère 
-les peripheriques connectés en cliquant dessus  la connexion s'établie entre le téléphone 
-et le module bluetooth. Et c'est après qu'on peut faire des commandes avec les boutons.
-
-Et merci de votre aide précieux
